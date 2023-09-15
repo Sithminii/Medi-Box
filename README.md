@@ -14,4 +14,9 @@ Software implementation of an electronic device which helps you to take your med
 - **Disable Alarms:** Temporarily disable all alarms when needed.
 - **IoT Dashboard:** Real-time temperature and light intensity data is displayed on an IoT dashboard implemented using Node-RED.
 
+## Node-Red Implementation
+
+![Node Red](https://github.com/Sithminii/Medi-Box/assets/129846300/20c1ec7c-af20-41ac-b28d-b633b41dd2d2)
+
+
 **Note**: The simulation was done using the Wokwi simulator and hence uses Wokwi Wi-Fi.
