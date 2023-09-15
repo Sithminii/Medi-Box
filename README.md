@@ -13,4 +13,4 @@ Software implementation of an alarming device which reminds you to take your med
 - **Customizable Alarms:** Configure alarm times as per your medication schedule.
 - **Disable Alarms:** Temporarily disable all alarms when needed.
 
-Note : The simulation was done using Wokwi simulator and hence uses Wokwi Wi-Fi.
+**Note**: The simulation was done using the Wokwi simulator and hence uses Wokwi Wi-Fi.
