@@ -12,6 +12,6 @@ Software implementation of an electronic device which helps you to take your med
 - **User-Friendly Interface:** A user-friendly menu system with a display and four buttons for easy navigation.
 - **Customizable Alarms:** Configure alarm times as per your medication schedule.
 - **Disable Alarms:** Temporarily disable all alarms when needed.
-- **IoT Dashboard:** Real-time temperature and humidity data is displayed on an IoT dashboard implemented using Node-RED.
+- **IoT Dashboard:** Real-time temperature and light intensity data is displayed on an IoT dashboard implemented using Node-RED.
 
 **Note**: The simulation was done using the Wokwi simulator and hence uses Wokwi Wi-Fi.
