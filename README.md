@@ -12,3 +12,5 @@ Software implementation of an alarming device which reminds you to take your med
 - **User-Friendly Interface:** A user-friendly menu system with a display and four buttons for easy navigation.
 - **Customizable Alarms:** Configure alarm times as per your medication schedule.
 - **Disable Alarms:** Temporarily disable all alarms when needed.
+
+Note : The simulation was done using Wokwi simulator and hence uses Wokwi Wi-Fi.
