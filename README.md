@@ -5,7 +5,6 @@ Software implementation of an electronic device which helps you to take your med
 
 ## Features
 
-- **Medication Reminders:** Set up to three alarms to remind you to take your medicine on time.
 - **Time Zone Configuration:** Choose your desired time zone for accurate timekeeping.
 - **Automated Medication Dispensing:** The Smart Medi-Box stores medication and, when it's time for a dose, opens the lid using a servo motor to dispense the medicine.
 - **Continuous Environment Monitoring:** The DHT22 sensor continuously monitors temperature and humidity to ensure proper storage conditions for medications.
